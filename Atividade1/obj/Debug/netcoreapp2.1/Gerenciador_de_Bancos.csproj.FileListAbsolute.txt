@@ -1,0 +1,11 @@
+C:\Users\renat\Documents\Workspaces\VS\Atividade1POO\Atividade1\bin\Debug\netcoreapp2.1\Gerenciador_de_Bancos.deps.json
+C:\Users\renat\Documents\Workspaces\VS\Atividade1POO\Atividade1\bin\Debug\netcoreapp2.1\Gerenciador_de_Bancos.runtimeconfig.json
+C:\Users\renat\Documents\Workspaces\VS\Atividade1POO\Atividade1\bin\Debug\netcoreapp2.1\Gerenciador_de_Bancos.runtimeconfig.dev.json
+C:\Users\renat\Documents\Workspaces\VS\Atividade1POO\Atividade1\bin\Debug\netcoreapp2.1\Gerenciador_de_Bancos.dll
+C:\Users\renat\Documents\Workspaces\VS\Atividade1POO\Atividade1\bin\Debug\netcoreapp2.1\Gerenciador_de_Bancos.pdb
+C:\Users\renat\Documents\Workspaces\VS\Atividade1POO\Atividade1\obj\Debug\netcoreapp2.1\Gerenciador_de_Bancos.csprojAssemblyReference.cache
+C:\Users\renat\Documents\Workspaces\VS\Atividade1POO\Atividade1\obj\Debug\netcoreapp2.1\Gerenciador_de_Bancos.csproj.CoreCompileInputs.cache
+C:\Users\renat\Documents\Workspaces\VS\Atividade1POO\Atividade1\obj\Debug\netcoreapp2.1\Gerenciador_de_Bancos.AssemblyInfoInputs.cache
+C:\Users\renat\Documents\Workspaces\VS\Atividade1POO\Atividade1\obj\Debug\netcoreapp2.1\Gerenciador_de_Bancos.AssemblyInfo.cs
+C:\Users\renat\Documents\Workspaces\VS\Atividade1POO\Atividade1\obj\Debug\netcoreapp2.1\Gerenciador_de_Bancos.dll
+C:\Users\renat\Documents\Workspaces\VS\Atividade1POO\Atividade1\obj\Debug\netcoreapp2.1\Gerenciador_de_Bancos.pdb
